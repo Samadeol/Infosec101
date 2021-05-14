@@ -2,7 +2,7 @@
 
 Author: [Samarth Arora](https://github.com/Samadeol)
 
-Problem Page: [bandit13](https://overthewire.org/wargame/bandit/bandit13)
+Problem Page: [bandit13](https://overthewire.org/wargames/bandit/bandit13)
 
 ## List of Commands Used
 ```
