@@ -34,7 +34,7 @@ send -- "cat bandit14 \r"
 send -- "exit\r"
 expect -- "$ "
 send -- "exit\r"
-interact
+interact 
 ```
 
 ## Suggested modifications [Optional]
